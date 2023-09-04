@@ -35,7 +35,7 @@ Para permitir o acesso público à instância, siga estas etapas:
 
 ## 2.1 Configurar o NFS entregue
 
-Para instalar o NFS no Amazon Linux 2, é necessário executar os seguintes comando:
+Para instalar o NFS no Linux, é necessário executar os seguintes comando:
 
 sudo yum install nfs-utils  <br/>
 <br/>
@@ -76,7 +76,7 @@ fi
 echo "$timestamp $service_name $status $message" > "$output_file"  <br/>
   <br/>
 
-Torne o script executável:
+Tornar o script executável:
 
 chmod +x check_apache_status.sh  
 
