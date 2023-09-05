@@ -12,8 +12,6 @@ Este repositório contém as atividades realizadas como parte do Programa de Bol
 
 - **Apresentação_Linux.pptx**: Este arquivo contém a apresentação propriamente dita.
 
-## Material Complementar
-
 - **Instalação_Linux.pdf**: Apresentação em PDF com informações sobre a instalação do Linux.
 
 - **Procedimentos.pdf**: Apresentação em PDF com detalhes sobre os procedimentos práticos.
